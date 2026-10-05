@@ -1,8 +1,9 @@
 # About Me
 
 🎓 **Educational Background**:  
-- **Bachelor's in Computer Engineering**: Strong foundation in computer systems, algorithms, and software development.  
 - **Master's in Computer Science**: Expertise in programming, data structures, and software engineering.
+- **Bachelor's in Computer Engineering**: Strong foundation in computer systems, algorithms, and software development.  
+
 
 💻 **Professional Background**:  
 
@@ -21,4 +22,4 @@
 - Python Programming for data analysis and automation.
 
 📫 **Contact**:  
-- Feel free to reach out via email at **bhosale.mitali@yahoo.in**.
+- Feel free to reach out via email at **bhosalemitali406@gmail.com**.
